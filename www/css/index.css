@@ -1,0 +1,20 @@
+body {
+  font-family: "Arial";
+  color: green;
+  font-size: 20px;
+}
+
+page-bg {
+  background-image: url(img/th.jpg);
+  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+  filter: blur(5px);
+}
+h1
+{
+    color:red;
+    font-family: sans-serif;
+    font-style: all;
+    font-size: 40px;
+    text-align: center;
+    text-underline-position: center;
+}
